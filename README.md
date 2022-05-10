@@ -1,3 +1,3 @@
 ## RendomNumber generation using reactjs
-![randomNumber!]('../random_number/src/pages/img/random.png')
+![randomNumber!]('D:\nextjs_sanity\random_number\src\pages\img\random.png')
 
