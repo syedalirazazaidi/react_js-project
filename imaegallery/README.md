@@ -1,2 +1,2 @@
-## ImageGallery changge image dynamically using reactjs
+## ImageGallery changge image dynamically onClick
 ![imageGallery!](./src/images/project.png)
