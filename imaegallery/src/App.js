@@ -1,0 +1,14 @@
+import "./App.css";
+import Gallery from "./pages/gallery";
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <Gallery />
+      </header>
+    </div>
+  );
+}
+
+export default App;

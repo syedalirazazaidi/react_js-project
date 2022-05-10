@@ -1,0 +1,6 @@
+ 
+.container .selected{
+    border: 2px solid purple;
+    width: 200px;
+    height: 200px;
+}
