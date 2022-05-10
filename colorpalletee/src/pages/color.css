@@ -1,0 +1,29 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+}
+.box{
+   
+       
+        filter: brightness(85%);
+        width: 140px;
+        height: 140px;
+        cursor: pointer;
+     
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 7rem 7rem 7rem 7rem 7rem;
+    grid-gap: 35px;
+    margin: 230px 400px;
+
+}
