@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2px;
+    color: #fff;
+    background-color: #525E75;
+}
+
+.minmax {
+    display: flex;
+    justify-content: space-between;
+}
+input[type=number]{
+    width: 60px;
+} 
+button {
+    background-color: #827397;
+    padding: 10px 65px;
+    border: none;
+    margin-top: 30px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.main {
+    background-color: #4D4C7D;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 150px
+}
